@@ -1,4 +1,8 @@
-## Hello, I'm Abdul Muiz 👋
+# Hello, I'm Abdul Muiz (JotacCyberSec)
+
+I am currently focusing on **Golang** and **Cyber Security**.  
+My main areas of interest include **CTF challenges, Malware Analysis, and Security Tools**.  
+I enjoy building small but practical tools that support both learning and CTF activities.
 
 <!--
 **JotacCyberSec/JotacCyberSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
