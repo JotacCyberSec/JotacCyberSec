@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🛠️ Tech Stack
-- **Languages:** Golang
+- **Languages:** Golang and Python
