@@ -33,5 +33,23 @@
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
-  <!-- EDR / XDR & Endpoint Security -->
-  <img src="
+  <img src="https://img.shields.io/badge/CrowdStrike_Falcon-ED1C24?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentinelOne-5D00C5?style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trend_Micro_Vision_One-D71920?style=for-the-badge&logo=trendmicro&logoColor=white" />
+
+  <!-- Security Agents, SecOps & AI Tools -->
+  <img src="https://img.shields.io/badge/Hermes_Agent-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw-FF6600?style=for-the-badge&logo=shield&logoColor=white" />
+
+  <!-- Monitoring, SIEM & Blue Team -->
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-167EC1?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2C?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=snort&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge&logo=thehive&logoColor=white" />
+  <img src="https://img.shields.io/badge/YARA-111111?style=for-the-badge&logo=yara&logoColor=white" />
+</p>
