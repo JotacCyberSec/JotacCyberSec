@@ -84,7 +84,7 @@ Fondasi keamanan yang sedang saya dalami:
 - Membangun pipeline DevSecOps yang bisa dijadikan template
 - Mendokumentasikan lab routing dan VPN & SD-WAN yang bisa direproduksi
 - Membuat pipeline network automation dan stack observability yang berguna
-- [Sertifikasi target, misal Security+, CySA+, CCNA, dll.]
+- [Sertifikasi target, Security+, CySA+, OSCP, dll.]
 
 ## 🤝 Let's Connect
 - 📫 Contact: [email / LinkedIn]
