@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-<h3 align="center">Bug Hunting & Recon</h3>
+<h3 align="center">Bug Hunting</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Subfinder-000000?style=for-the-badge&logoColor=white" />
