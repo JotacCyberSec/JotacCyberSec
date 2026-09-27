@@ -60,3 +60,13 @@
   <img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge&logo=thehive&logoColor=white" />
   <img src="https://img.shields.io/badge/YARA-111111?style=for-the-badge&logo=yara&logoColor=white" />
 </p>
+
+<h3 align="center">AI Engineering & LLM Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-6D28D9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw-FF6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi_Model_Router-0EA5E9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
