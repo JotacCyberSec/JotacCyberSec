@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Abdul Muiz 👋</h1>
-<p align="center"><b>DevOps & DevSecOps Enthusiast</b> · Backend Developer · Cloud & AI Engineering</p>
+<p align="center"><b>Cyber Security Enthusiast</b> · DevOps & DevSecOps · Backend Developer · Cloud & AI Engineering</p>
 <p align="center"><i>"Belajar, praktik, lalu dokumentasikan."</i></p>
-<p align="center">
   <!-- OS & Languages -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
