@@ -67,3 +67,21 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
+
+<h3 align="center">Penetration Testing</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-1D1D1D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+<h3 align="center">Bug Hunting & Recon</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Subfinder-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/httpx-black?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/dirsearch-2E2E2E?style=for-the-badge&logoColor=white" />
+</p>
