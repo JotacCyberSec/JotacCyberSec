@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Abdul Muiz 👋</h1>
-<p align="center"><b>JotacCyberSec</b> · Cyber Security Enthusiast · Curious Learner</p>
+<p align="center"><b>Cyber Security Enthusiast</b> · DevSecOps · Backend Developer</p>
 <p align="center"><i>"Belajar, praktik, lalu dokumentasikan."</i></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Skill-DevSecOps-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20%26%20AI-orange?style=flat-square" />
+</p>
 <p align="center">
   <!-- OS & Languages -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
