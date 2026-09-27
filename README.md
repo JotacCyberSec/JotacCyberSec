@@ -42,9 +42,6 @@
 
 <h3 align="center">EDR / XDR</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/CrowdStrike_Falcon-ED1C24?style=for-the-badge&logo=crowdstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/SentinelOne-5D00C5?style=for-the-badge&logo=sentinelone&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Trend_Micro_Vision_One-D71920?style=for-the-badge&logo=trendmicro&logoColor=white" />
 </p>
 
