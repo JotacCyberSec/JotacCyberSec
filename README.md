@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdul Muiz 👋
 
-**Cyber Security Enthusiast** · DevOps & DevSecOps · Cloud & AI Engineering
+**Cyber Security Enthusiast** · Blue Team · Red Team (Web Security) · DevSecOps
 
 *"Belajar, praktik, lalu dokumentasikan."*
 
@@ -14,7 +14,7 @@
 
 Saya memulai perjalanan di dunia IT sejak SMK, dengan fokus pada **jaringan komputer**: konfigurasi **MikroTik** dan **Cisco**, mulai dari konsep **Layer 2 hingga Layer 3** serta berbagai teknologi jaringan lainnya.
 
-Setelah lulus, saya bekerja di **Lintasarta** sebagai **IT Support Specialist**. Dari sana saya terbiasa menangani lingkungan enterprise sekaligus berinteraksi langsung dengan pengguna. Kini saya mengembangkan diri ke arah **DevOps, DevSecOps, dan Backend Development** dengan tetap menjadikan **keamanan** sebagai fondasi.
+Setelah lulus, saya bekerja di **Lintasarta** sebagai **IT Support Specialist**. Dari sana saya terbiasa menangani lingkungan enterprise sekaligus berinteraksi langsung dengan pengguna. Kini fokus utama saya adalah **Blue Team** (bertahan, memonitor, dan melakukan hardening), serta sesekali berperan di sisi **Red Team** untuk membantu **mengamankan website instansi pemerintah** melalui pengujian keamanan dan pelaporan kerentanan secara bertanggung jawab. Saya juga mendalami **DevSecOps** agar keamanan terintegrasi sejak proses pengembangan, dan menggunakan **Python** serta **Go** sebagai pendukung untuk membuat automation dan tools keamanan.
 
 ---
 
@@ -47,7 +47,7 @@ Bertanggung jawab menjaga kelancaran operasional dan keamanan infrastruktur IT d
 
 ## 🐞 Security Research & Bug Hunting
 
-- Berhasil menemukan **kerentanan pada situs web nasional** melalui program pelatihan bug hunter (dilaporkan secara bertanggung jawab).
+- Berhasil menemukan **kerentanan pada situs web nasional** melalui program pelatihan bug hunter, dilaporkan secara bertanggung jawab untuk membantu pengamanan website pemerintah.
 - Aktif berlatih di platform **HackerOne** untuk terus mengasah kemampuan.
 - Fokus pada **web application security**, **reconnaissance**, dan **vulnerability scanning**.
 
@@ -103,11 +103,10 @@ Bertanggung jawab menjaga kelancaran operasional dan keamanan infrastruktur IT d
 
 ## 🎯 Fokus Saat Ini
 
-- 🔧 Membangun **automation & CI/CD pipeline** dengan Ansible, Jenkins, GitHub Actions, dan GitLab CI.
-- 🔐 Menerapkan **DevSecOps**: SAST, SCA, container scanning, dan IaC scanning dalam pipeline.
-- 💻 Mendalami **Backend Development** dengan **Golang** dan **Python**.
-- ☁️ Mempelajari **Cloud & AI Engineering**.
-- 🐞 Meningkatkan kemampuan **bug hunting** dan **web security**.
+- 🛡️ **Blue Team:** monitoring, endpoint security (XDR), hardening Windows Server & Active Directory, serta network security (FortiGate, Palo Alto).
+- 🐞 **Red Team (Web Security):** pengujian keamanan dan *responsible disclosure* untuk membantu pengamanan website instansi pemerintah.
+- 🔐 **DevSecOps:** menerapkan SAST, SCA, container scanning, dan IaC scanning dalam pipeline CI/CD.
+- 🔧 **Automation:** Ansible, Jenkins, GitHub Actions, dan GitLab CI, dengan Python/Go sebagai pendukung scripting dan tooling.
 
 ---
 
@@ -119,8 +118,8 @@ SMK (MikroTik, Cisco, L2–L3 Networking)
          └─▶ IT Support Specialist @ Lintasarta (AD, Windows Server, XDR, Hardening)
                └─▶ Network Security (FortiGate, Palo Alto)
                      └─▶ Bug Hunter Training & HackerOne
-                           └─▶ Backend (Go, Python)
-                                 └─▶ DevOps & DevSecOps
+                           └─▶ Blue Team & Red Team (Web Security)
+                                 └─▶ DevSecOps & Automation
 ```
 
 ---
