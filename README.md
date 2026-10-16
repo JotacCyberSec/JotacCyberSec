@@ -9,7 +9,7 @@
 
 <br/>
 
-*"Belajar, praktik, lalu dokumentasikan."*
+*"Tidak ada sistem yang benar-benar aman, tapi selalu ada cara membuatnya lebih kuat."*
 
 <br/>
 
