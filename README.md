@@ -13,12 +13,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME-KAMU)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL-KAMU@gmail.com)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/USERNAME-KAMU)
-![Location](https://img.shields.io/badge/Indonesia-🇮🇩-red?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=JotacCyberSec&color=00b894&style=flat-square&label=Profile+Views)
-
 </div>
 
 <!-- ===================== ABOUT ===================== -->
