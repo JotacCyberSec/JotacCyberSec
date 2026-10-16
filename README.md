@@ -1,140 +1,164 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Hi, I'm Abdul Muiz 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abdul%20Muiz&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Blue%20Team%20%C2%B7%20Red%20Team%20%C2%B7%20DevSecOps&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-**Cyber Security Enthusiast** · Blue Team · Red Team (Web Security) · DevSecOps
+<a href="https://github.com/JotacCyberSec">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5A8&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Blue+Team+%7C+Hardening+%26+Monitoring;Web+Security+%7C+Responsible+Disclosure;DevSecOps+%7C+Automation+%26+CI%2FCD" alt="typing" />
+</a>
+
+<br/>
 
 *"Belajar, praktik, lalu dokumentasikan."*
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME-KAMU)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL-KAMU@gmail.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/USERNAME-KAMU)
+![Location](https://img.shields.io/badge/Indonesia-🇮🇩-red?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=JotacCyberSec&color=00b894&style=flat-square&label=Profile+Views)
+
 </div>
 
----
-
+<!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 Tentang Saya
 
-Saya memulai perjalanan di dunia IT sejak SMK, dengan fokus pada **jaringan komputer**: konfigurasi **MikroTik** dan **Cisco**, mulai dari konsep **Layer 2 hingga Layer 3** serta berbagai teknologi jaringan lainnya.
+Saya memulai perjalanan di dunia IT sejak SMK dengan fokus pada **jaringan komputer**, yaitu **MikroTik** dan **Cisco** dari **Layer 2 hingga Layer 3**. Setelah lulus, saya bekerja sebagai **IT Support Specialist di Lintasarta**, menangani infrastruktur enterprise di seluruh cabang Indonesia.
 
-Setelah lulus, saya bekerja di **Lintasarta** sebagai **IT Support Specialist**. Dari sana saya terbiasa menangani lingkungan enterprise sekaligus berinteraksi langsung dengan pengguna. Kini fokus utama saya adalah **Blue Team** (bertahan, memonitor, dan melakukan hardening), serta sesekali berperan di sisi **Red Team** untuk membantu **mengamankan website instansi pemerintah** melalui pengujian keamanan dan pelaporan kerentanan secara bertanggung jawab. Saya juga mendalami **DevSecOps** agar keamanan terintegrasi sejak proses pengembangan, dan menggunakan **Python** serta **Go** sebagai pendukung untuk membuat automation dan tools keamanan.
+Fokus saya hari ini:
 
----
+| | Area | Deskripsi |
+|:-:|------|-----------|
+| 🛡️ | **Blue Team** | Monitoring, endpoint security (XDR), hardening Windows Server & Active Directory, network security |
+| 🐞 | **Red Team** | Web security testing dan *responsible disclosure* untuk membantu mengamankan website instansi pemerintah |
+| 🔐 | **DevSecOps** | Mengintegrasikan keamanan ke pipeline CI/CD (SAST, SCA, container & IaC scanning) |
+| ⚙️ | **Automation** | Ansible, Jenkins, GitHub Actions, GitLab CI, dengan Python & Go sebagai pendukung tooling |
 
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Pengalaman Kerja
 
-### IT Support Specialist — Lintasarta
+### IT Support Specialist · Lintasarta
+*Menjaga kelancaran operasional dan keamanan infrastruktur IT di seluruh cabang Lintasarta di Indonesia.*
 
-Bertanggung jawab menjaga kelancaran operasional dan keamanan infrastruktur IT di seluruh cabang Lintasarta di Indonesia.
+| Area | Tanggung Jawab |
+|------|----------------|
+| 🗂️ **Active Directory** | Mengelola AD pada Windows Server, *preventive maintenance*, dan *security hardening* bersama tim CISO |
+| 📡 **Network Monitoring** | Memantau dan mengelola access point di seluruh kantor cabang untuk konektivitas dan keamanan yang konsisten |
+| 🎧 **Technical Support** | Menyelesaikan kendala software, VPN, OS, dan layanan jaringan |
+| 🛡️ **Endpoint Security** | Mengelola XDR (Trend Micro) untuk deteksi dan respons ancaman |
+| 🔥 **Network Security** | Mendukung operasional FortiGate dan Palo Alto |
+| 🎥 **Meeting Support** | Menyiapkan Zoom, Microsoft Teams, audio-visual, dan kebutuhan IT meeting lainnya |
+| 📣 **IT Communications** | Menyebarkan informasi penting IT kepada karyawan melalui email |
+| 🏢 **Data Center** | Pengecekan rutin untuk menjaga performa dan keamanan |
+| 🆕 **Teknologi Baru** | Mendukung adopsi teknologi baru bagi end user |
 
-- **Manajemen Active Directory:** mengelola Active Directory pada Windows Server, melakukan *preventive maintenance*, serta menerapkan *security hardening* bersama tim CISO.
-- **Monitoring Jaringan:** memantau dan mengelola access point di seluruh kantor cabang untuk memastikan konektivitas dan keamanan yang konsisten.
-- **Technical Support:** menyelesaikan kendala pengguna terkait komputer, software, VPN, sistem operasi, dan layanan jaringan.
-- **Endpoint Security:** mengelola **XDR (Trend Micro)** untuk deteksi dan respons ancaman pada endpoint.
-- **Meeting & Conference Support:** menyiapkan dan mengoordinasikan kebutuhan IT untuk meeting perusahaan, termasuk Zoom, Microsoft Teams, perangkat audio-visual, dan lainnya.
-- **IT Communications:** mengelola komunikasi IT, termasuk menyebarkan informasi penting kepada karyawan melalui email.
-- **Data Center Maintenance:** melakukan pengecekan rutin data center untuk menjaga performa dan keamanan.
-- **Teknologi Baru:** mendukung adopsi teknologi baru bagi end user.
-- Mendukung operasional **network & security** menggunakan **FortiGate** dan **Palo Alto**.
-
----
-
+<!-- ===================== CERT ===================== -->
 ## 🎓 Sertifikasi & Pelatihan
 
-| Jenis | Keterangan |
-|-------|------------|
-| 🏅 Sertifikasi | **MikroTik Certified Network Associate (MTCNA)** |
-| 🛡️ Pelatihan | **Bug Hunter Training** |
+| 🏅 | Nama | Bidang |
+|:-:|------|--------|
+| ✅ | **MikroTik Certified Network Associate (MTCNA)** | Networking |
+| ✅ | **Bug Hunter Training** | Web Security |
 
----
+<!-- ===================== SECURITY ===================== -->
+## 🐞 Security Research
 
-## 🐞 Security Research & Bug Hunting
-
-- Berhasil menemukan **kerentanan pada situs web nasional** melalui program pelatihan bug hunter, dilaporkan secara bertanggung jawab untuk membantu pengamanan website pemerintah.
-- Aktif berlatih di platform **HackerOne** untuk terus mengasah kemampuan.
-- Fokus pada **web application security**, **reconnaissance**, dan **vulnerability scanning**.
-
-**Tools yang digunakan:**
-
-![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Subfinder](https://img.shields.io/badge/SUBFINDER-1A1A1A?style=for-the-badge&logo=projectdiscovery&logoColor=white)
-![httpx](https://img.shields.io/badge/HTTPX-1A1A1A?style=for-the-badge&logo=projectdiscovery&logoColor=white)
-![Nuclei](https://img.shields.io/badge/NUCLEI-1A1A1A?style=for-the-badge&logo=projectdiscovery&logoColor=white)
-![HackerOne](https://img.shields.io/badge/HACKERONE-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-
----
-
-## 🛠️ Tech Stack
-
-### OS & Languages
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/WINDOWS_SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Active Directory](https://img.shields.io/badge/ACTIVE_DIRECTORY-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### DevOps & Infrastructure
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GITLAB_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### DevSecOps & Security Automation
-![Snyk](https://img.shields.io/badge/SNYK-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/TRIVY-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Semgrep](https://img.shields.io/badge/SEMGREP-F5532D?style=for-the-badge&logo=semgrep&logoColor=white)
-![Checkov](https://img.shields.io/badge/CHECKOV-1E90FF?style=for-the-badge&logo=checkmarx&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![DefectDojo](https://img.shields.io/badge/DEFECTDOJO-1F2937?style=for-the-badge&logo=owasp&logoColor=white)
-
-### Networking & Firewalls
-![MikroTik](https://img.shields.io/badge/MIKROTIK-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNSENSE-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
-![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/FORTINET-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Palo Alto](https://img.shields.io/badge/PALO_ALTO-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WIREGUARD-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### Endpoint Security & Operations
-![Trend Micro](https://img.shields.io/badge/TREND_MICRO_XDR-D71921?style=for-the-badge&logo=trendmicro&logoColor=white)
-
----
-
-## 🎯 Fokus Saat Ini
-
-- 🛡️ **Blue Team:** monitoring, endpoint security (XDR), hardening Windows Server & Active Directory, serta network security (FortiGate, Palo Alto).
-- 🐞 **Red Team (Web Security):** pengujian keamanan dan *responsible disclosure* untuk membantu pengamanan website instansi pemerintah.
-- 🔐 **DevSecOps:** menerapkan SAST, SCA, container scanning, dan IaC scanning dalam pipeline CI/CD.
-- 🔧 **Automation:** Ansible, Jenkins, GitHub Actions, dan GitLab CI, dengan Python/Go sebagai pendukung scripting dan tooling.
-
----
-
-## 🗺️ Perjalanan Belajar
-
-```
-SMK (MikroTik, Cisco, L2–L3 Networking)
-   └─▶ MTCNA
-         └─▶ IT Support Specialist @ Lintasarta (AD, Windows Server, XDR, Hardening)
-               └─▶ Network Security (FortiGate, Palo Alto)
-                     └─▶ Bug Hunter Training & HackerOne
-                           └─▶ Blue Team & Red Team (Web Security)
-                                 └─▶ DevSecOps & Automation
-```
-
----
-
-## 📫 Kontak
-
-<!-- Ganti dengan link kamu sendiri -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME-KAMU)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL-KAMU@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JotacCyberSec)
-
----
+- Menemukan **kerentanan pada situs web nasional** melalui program pelatihan bug hunter, dilaporkan secara bertanggung jawab untuk membantu pengamanan website pemerintah.
+- Aktif berlatih di **HackerOne** untuk terus mengasah kemampuan.
+- Fokus pada **reconnaissance**, **vulnerability scanning**, dan **web application security**.
 
 <div align="center">
 
-⭐ *Terima kasih sudah berkunjung! Mari berdiskusi dan berkolaborasi.* ⭐
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-1A1A1A?style=flat-square&logo=projectdiscovery&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-1A1A1A?style=flat-square&logo=projectdiscovery&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-1A1A1A?style=flat-square&logo=projectdiscovery&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)
+
+</div>
+
+<!-- ===================== STACK ===================== -->
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>💻 OS, Languages & Automation</b></summary>
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,py,go,bash,git,github,gitlab,githubactions,jenkins,ansible,docker,kubernetes&perline=13" alt="stack" />
+</p>
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔐 DevSecOps & Security Automation</b></summary>
+<br/>
+
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-F5532D?style=flat-square&logo=semgrep&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-1E90FF?style=flat-square&logo=checkmarx&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![DefectDojo](https://img.shields.io/badge/DefectDojo-1F2937?style=flat-square&logo=owasp&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Networking & Firewalls</b></summary>
+<br/>
+
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛡️ Endpoint Security</b></summary>
+<br/>
+
+![Trend Micro XDR](https://img.shields.io/badge/Trend_Micro_XDR-D71921?style=flat-square&logo=trendmicro&logoColor=white)
+
+</details>
+
+<!-- ===================== ROADMAP ===================== -->
+## 🗺️ Perjalanan Belajar
+
+```mermaid
+flowchart LR
+    A[SMK<br/>MikroTik & Cisco<br/>L2 - L3] --> B[MTCNA]
+    B --> C[IT Support<br/>Lintasarta]
+    C --> D[Network Security<br/>FortiGate & Palo Alto]
+    D --> E[Bug Hunter Training<br/>& HackerOne]
+    E --> F[Blue Team &<br/>Red Team]
+    F --> G[DevSecOps<br/>& Automation]
+```
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JotacCyberSec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotacCyberSec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+*Terima kasih sudah berkunjung. Mari berdiskusi dan berkolaborasi!* 🤝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
