@@ -24,7 +24,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 Tentang Saya
 
-Saya memulai perjalanan di dunia IT sejak SMK dengan fokus pada **jaringan komputer**, yaitu **MikroTik** dan **Cisco** dari **Layer 2 hingga Layer 3**. Setelah lulus, saya bekerja sebagai **IT Support Specialist di Lintasarta**, menangani infrastruktur enterprise di seluruh cabang Indonesia.
+Saya memulai perjalanan di dunia IT sejak SMK dengan fokus pada **jaringan komputer**, yaitu **MikroTik** dan **Cisco** dari **Layer 2 hingga Layer 3**. Setelah lulus, saya bekerja sebagai **ITSM Infrastructure di Lintasarta**, menangani infrastruktur enterprise di seluruh cabang Indonesia.
 
 Fokus saya hari ini:
 
@@ -38,7 +38,7 @@ Fokus saya hari ini:
 <!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Pengalaman Kerja
 
-### IT Support Specialist · Lintasarta
+### ITSM Infrastructure · Lintasarta
 *Menjaga kelancaran operasional dan keamanan infrastruktur IT di seluruh cabang Lintasarta di Indonesia.*
 
 | Area | Tanggung Jawab |
@@ -137,7 +137,7 @@ Fokus saya hari ini:
 ```mermaid
 flowchart LR
     A[SMK<br/>MikroTik & Cisco<br/>L2 - L3] --> B[MTCNA]
-    B --> C[IT Support<br/>Lintasarta]
+    B --> C[ITSM Infrastructure<br/>Lintasarta]
     C --> D[Network Security<br/>FortiGate & Palo Alto]
     D --> E[Bug Hunter Training<br/>& HackerOne]
     E --> F[Blue Team &<br/>Red Team]
